@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "skyrave:blocks/radish_stage_2"
+    }
+}

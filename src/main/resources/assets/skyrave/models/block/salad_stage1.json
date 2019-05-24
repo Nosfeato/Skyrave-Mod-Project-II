@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "skyrave:blocks/salad_stage_1"
+    }
+}

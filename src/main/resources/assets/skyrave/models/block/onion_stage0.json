@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "skyrave:blocks/onion_stage_0"
+    }
+}

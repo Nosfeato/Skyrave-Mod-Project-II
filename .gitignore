@@ -1,0 +1,13 @@
+### GRADLE ###
+.gradle/
+build/
+run/
+eclipse/
+### INTELLIJ ###
+*.iml
+*.ipr
+*.iws
+out/
+
+### MISC ###
+Thumbs.db

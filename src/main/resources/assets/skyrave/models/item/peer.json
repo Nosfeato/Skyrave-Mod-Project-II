@@ -1,0 +1,6 @@
+{
+    "parent": "skyrave:item/normal_item",
+    "textures": {
+        "layer0": "skyrave:items/peer"
+    }
+}

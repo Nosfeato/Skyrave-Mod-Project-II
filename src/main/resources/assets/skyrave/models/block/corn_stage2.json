@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "skyrave:blocks/corn_stage_2"
+    }
+}
